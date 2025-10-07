@@ -5,6 +5,6 @@ Le famose pennette alla carbonara
 ## Ingredienti
 
 * penne
-* pancetta
+* guanciale
 * uovo
 * pepe
