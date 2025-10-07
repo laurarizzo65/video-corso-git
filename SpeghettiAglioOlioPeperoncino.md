@@ -7,3 +7,4 @@ Piatto preferito
 * aglio
 * olio
 * peperoncino
+* prezzemolo
